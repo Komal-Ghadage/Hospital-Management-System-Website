@@ -1,10 +1,16 @@
 Hospital Management System
+
+
 Welcome to our Hospital Management System repository! This website is designed to provide an intuitive and user-friendly platform for hospitals, ensuring efficient patient management, doctor scheduling, and seamless communication between healthcare providers and patients.
 
 Tech Stack
+
+
 Frontend: HTML, CSS, JavaScript
 
 Features
+
+
 •	Responsive Design: Fully optimized for different screen sizes
 •	User Authentication: Secure login system for doctors, patients, and admins
 •	Home & About Sections: Provides details about hospital services and facilities
